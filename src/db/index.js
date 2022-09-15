@@ -1,21 +1,8 @@
 //FUNCIONES
 const data = [
-  {
-    id:1,
-    name:"Pepe",
-    last_name: "Perez",
-  },
-  {
-    id:2,
-    name:"Cristopher",
-    last_name: "Gutierrez",
-  },
-  {
-    id:3,
-    name:"Edward",
-    last_name: "Rojas",
-  },
-];
+  {name:"Melany",last_name:"Arbieto",phone:"95645789"},
+  {name:"Cristopher",last_name:"Espinoza",phone:"95645789"},
+  {name:"Edward",apellido:"Rojas",,phone:"95645789"];
 let data_id = 0;
 
 //LISTAR TODO

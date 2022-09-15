@@ -1,21 +1,8 @@
 //FUNCIONES
 const data = [
-  {
-    id: 1,
-    name: "USB",
-    price: "45.60",
-  },
-  {
-    id: 2,
-    name: "Teclado",
-    price: "255.60",
-  },
-  {
-    id: 3,
-    name: "Pantalla",
-    price: "1005.80",
-  },
-];
+  {product:"aceite",price:"12.89"},
+  {product:"fideos",price:"3.50"},
+  {product:"azucar",price:"2.90"];
 let data_id = 0;
 
 //LISTAR TODO
