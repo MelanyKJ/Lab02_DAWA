@@ -10,4 +10,4 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use("/clientes", user);
-app.use("/productuctos",product);
+app.use("/productos",product);
