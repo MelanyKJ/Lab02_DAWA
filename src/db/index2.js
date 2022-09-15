@@ -1,5 +1,21 @@
 //FUNCIONES
-const data = []
+const data = [
+  {
+    id: 1,
+    name: "USB",
+    price: "45.60",
+  },
+  {
+    id: 2,
+    name: "Teclado",
+    price: "255.60",
+  },
+  {
+    id: 3,
+    name: "Pantalla",
+    price: "1005.80",
+  },
+];
 let data_id = 0;
 
 //LISTAR TODO

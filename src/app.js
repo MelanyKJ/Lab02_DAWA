@@ -9,5 +9,5 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use("/api/v1/user", user);
-app.use("/api/v1/product",product);
+app.use("/clientes", user);
+app.use("/productuctos",product);

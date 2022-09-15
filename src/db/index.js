@@ -3,9 +3,19 @@ const data = [
   {
     id:1,
     name:"Pepe",
-    last_name: "Perez"
-  }
-]
+    last_name: "Perez",
+  },
+  {
+    id:2,
+    name:"Cristopher",
+    last_name: "Gutierrez",
+  },
+  {
+    id:3,
+    name:"Edward",
+    last_name: "Rojas",
+  },
+];
 let data_id = 0;
 
 //LISTAR TODO
