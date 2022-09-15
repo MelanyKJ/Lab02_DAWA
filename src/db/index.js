@@ -2,7 +2,7 @@
 const data = [
   {name:"Melany",last_name:"Arbieto",phone:"95645789"},
   {name:"Cristopher",last_name:"Espinoza",phone:"95645789"},
-  {name:"Edward",apellido:"Rojas",phone:"95645789"];
+  {name:"Edward",apellido:"Rojas",phone:"95645789"}];
 let data_id = 0;
 
 //LISTAR TODO

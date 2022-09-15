@@ -2,7 +2,7 @@
 const data = [
   {product:"aceite",price:"12.89"},
   {product:"fideos",price:"3.50"},
-  {product:"azucar",price:"2.90"];
+  {product:"azucar",price:"2.90"}];
 let data_id = 0;
 
 //LISTAR TODO
